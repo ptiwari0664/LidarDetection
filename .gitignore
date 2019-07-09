@@ -1,0 +1,15 @@
+build*/
+devel*/
+logs/
+.bt
+.pcd
+.catkin_*
+**/*.pyc
+**/*-build
+src/sensors/data/pcd/*
+**/*.bag
+**/*.bt
+**/*.user
+**/*-safe
+**/*.mk
+deployment/e2o_ws/.metadata
